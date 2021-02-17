@@ -1,17 +1,18 @@
-# Trend analysis and fatality causes in Kenyan roads: An Analysis and Comparison 
+# Trend analysis and fatality causes in Kenyan roads: An Analysis and Comparison Of Traffic Accidents between 2011 and 2017
 
- Of Traffic accidents between 2011 and 2017
 
 #### By Team 4 Moringa
 
    
-Group Contacts :  tellyobrein@gmail.com
-                 GraceNdunda81@gmail.com
-                 kesinowayne@gmail.com
-                 wkahuthu@gmail.com
-                 billykt12@gmail.com
-                 nelsonmuteti012@gmail.com
-                 harriethrotich@gmail.com
+* Group Members :
+     
+              tellyobrein@gmail.com
+              GraceNdunda81@gmail.com
+              kesinowayne@gmail.com
+              wkahuthu@gmail.com
+              billykt12@gmail.com
+              nelsonmuteti012@gmail.com
+              harriethrotich@gmail.com
               
 
 ## PROBLEM STATEMENT
@@ -83,7 +84,7 @@ Group Contacts :  tellyobrein@gmail.com
 
 ## Support
 
-*Contact any group member at:
+* Contact any group member at:
      
               tellyobrein@gmail.com
               GraceNdunda81@gmail.com
@@ -93,7 +94,7 @@ Group Contacts :  tellyobrein@gmail.com
               nelsonmuteti012@gmail.com
               harriethrotich@gmail.com
 
-*No need to request permission to fork this project.
+* No need to request permission to fork this project.
 
 *Suggestions on improvement are welcome.
 
