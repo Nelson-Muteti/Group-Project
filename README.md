@@ -96,7 +96,7 @@
 
 * No need to request permission to fork this project.
 
-*Suggestions on improvement are welcome.
+* Suggestions on improvement are welcome.
 
 * More data is also welcome inorder to improve our recommendation system.
 
